@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onStart() {
+        val count = 4
         super.onStart()
     }
 
